@@ -1,0 +1,18 @@
+Napisz funkcje która przyjmie liczbe N w zapisie rzymskim i zwróci w zapisie arabskim.
+N jest liczbą rzeczywistą, całkowitą. N <= 1000
+
+Przykład:
+X -> 10
+IX -> 9
+DCXXXV -> 635
+DCXXXIV -> 634
+CDXXXIV -> 434
+
+Podpowiedz:
+I -> 1
+V -> 5
+X -> 10
+L -> 50
+C -> 100
+D -> 500
+M -> 1000
